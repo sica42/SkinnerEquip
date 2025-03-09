@@ -1,0 +1,14 @@
+{
+    "Lua.diagnostics.globals": [
+        "CreateFrame",
+        "SlashCmdList",        
+        "PickupContainerItem",
+        "PickupInventoryItem",
+        "GetContainerNumSlots",
+        "GetContainerItemLink",
+        "GetInventoryItemLink",        
+        "arg1",
+        "event",
+        "DEFAULT_CHAT_FRAME"
+    ]
+}
