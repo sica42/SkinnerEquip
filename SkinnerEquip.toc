@@ -1,7 +1,6 @@
-## Interface: 11702
+## Interface: 11200
 ## Title: SkinnerEquip
 ## Author: Sica
 ## Notes: Auto equip skinner tools if needed and unequip after
-## Version: 0.2
-## SavedVariablesPerCharacter: SkinnerEquip
+## Version: 0.3
 SkinnerEquip.lua
